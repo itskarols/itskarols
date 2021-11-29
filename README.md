@@ -2,13 +2,13 @@
 
 [LinkedIn](https://www.linkedin.com/in/karollinesilveira/) • [Twitter](https://twitter.com/karoolsilveira_)
 
-✨ I'm a computer engineer and ui;ux designer passionate about making the web accessible to everyone and sharing curiosities about technology and its universe.
+✨ I'm a computer engineer • ui/ux designer • front-end dev passionate about making the web accessible to everyone.
 
-I love sharing my knowledge with others, and I do that through content creation on my Instagram.
+I love sharing my knowledge with others, and I do that through content creation on my Instagram for tech.
 
-📫 How to reach me: **@karolcreates**
+📫 Reach me at **@karolcreates**
 
-⚡ Fun fact: I love everything about true crime documentaries, Star Wars, Friends and soccer. I'm also an -all kind- animal lover!
+⚡ Fun facts: I love everything about true crime documentaries, Star Wars, Friends and soccer. I'm also an -all kind- animal lover!
 
 <!--
 **itskarols/itskarols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
